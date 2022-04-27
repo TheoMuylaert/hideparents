@@ -1,0 +1,17 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "PWA com manifesto e precaching",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 8081"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}

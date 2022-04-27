@@ -1,0 +1,33 @@
+{
+    "name": "Hide Parents",
+    "short_name": "Hide",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ccc",
+    "theme_color": "#A69E77",
+    "icons": [
+        {
+            "src": "/css/images/icons/icons96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/icons/icons144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/icons/icons256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/icons/icons256x256.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+
+
+}
